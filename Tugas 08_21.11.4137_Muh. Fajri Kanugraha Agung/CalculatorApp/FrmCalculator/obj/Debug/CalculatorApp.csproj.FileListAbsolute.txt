@@ -1,0 +1,12 @@
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\bin\Debug\CalculatorApp.exe.config
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\bin\Debug\CalculatorApp.exe
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\bin\Debug\CalculatorApp.pdb
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\FrmCalculator.FrmCalculator.resources
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\FrmCalculator.frmHasil.resources
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.exe
+D:\AMIKOM\S3\PL\Praktikum 08\Tugas\CalculatorApp\FrmCalculator\obj\Debug\CalculatorApp.pdb
